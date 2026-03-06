@@ -2,6 +2,8 @@
   "versionCode": 2,
   "versionName": "1.23.07.22",
   "url": "https://github.com/JeisonCadenaC/HelpCoinUpdater/releases/latest/download/app-debug.apk",
-  "changelog": "🚀 ¡Novedades de esta versión!\n\n✨ Nueva función estrella: ¡HelpCoin Evo ahora se actualiza sola! Hemos implementado un sistema automático para que siempre tengas las mejores funciones sin esfuerzo.\n\n📊 Mejoras visuales: Ahora puedes verificar la versión exacta de la app directamente en tu pantalla de Perfil.\n\n🛠️ Optimización: Mejoras de rendimiento bajo el capó y corrección de pequeños errores para una experiencia mucho más fluida."
+  "changelog": "🚀 ¡HelpCoin Evo v2.0 llegó a otro nivel!\n\n📊 Análisis Inteligente Pro: Nuevo centro de control con gráficas avanzadas estilo Google Ads. Compara tus gastos e ingresos con el mes anterior y visualiza variaciones porcentuales automáticamente.\n\n🧠 Clasificación con IA: Mejoramos el motor de detección. Ahora la app entiende términos coloquiales y categoriza inteligentemente desde arreglos mecánicos hasta gastos personales específicos.\n\n🔄 Backup 2.0: ¡Adiós a la incertidumbre! Implementamos barras de progreso reales (0-100%) al guardar o restaurar tus datos en Google Drive.\n\n✨ UI Consistente & Flex: Rediseño total de la pantalla de transacciones para una experiencia fluida y nuevos layouts 'Flex' que se adaptan perfectamente a tu pantalla.\n\n🛠️ Estabilidad Total: Corregimos el sistema de autoinstalación, limpieza automática de archivos residuales y optimizamos el rendimiento general."
 }
+}
+
 
