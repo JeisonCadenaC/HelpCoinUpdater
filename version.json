@@ -1,6 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.24",
+  "versionCode": 4,
+  "versionName": "1.25",
   "url": "https://github.com/JeisonCadenaC/HelpCoinUpdater/releases/latest/download/app-debug.apk",
   "changelog": "📈 ¡Analítica de nivel Dios en HelpCoin Evo!\n\n📊 Comparativas Avanzadas Pro: Nuevo panel de análisis con gráficas gemelas temporales. Compara tus ingresos y gastos (Ej: Este Mes vs Mes Anterior) lado a lado con porcentajes de tendencia exactos.\n\n🧠 Memoria Persistente: ¡La app ahora recuerda cómo te gusta analizar tu dinero! Tus filtros y modos de comparación se guardan automáticamente y se respaldan en la nube.\n\n🎨 Nuevo Menú Premium: Implementamos un elegante panel inferior (Bottom Sheet) para seleccionar periodos con atajos inteligentes (Este Año, Últimos 7 Días, Periodo Anterior Automático) o rangos personalizados.\n\n🛡️ Precisión Absoluta: Adiós a los cálculos extraños. El motor gráfico ahora detecta periodos vacíos y te muestra indicadores limpios ('Sin datos previos') sin romper tu experiencia visual."
 }
+
